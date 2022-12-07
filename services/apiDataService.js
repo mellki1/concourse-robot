@@ -20,6 +20,7 @@ var config = {
 function responseStructure(data) {
   return {
       'Local' : data.institution,
+      'Estado' : data.state,
       'Data de inicio da inscrição' : data.startDate,
       'Data de fim da inscrição' : data.endDate,
       'Data da prova' : data.examDate,

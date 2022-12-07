@@ -1,4 +1,5 @@
 node_modules/
 resources/googleCredentials.json
+resources/
 .vscode/
 concourse-robot.zip
