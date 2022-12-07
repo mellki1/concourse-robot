@@ -1,0 +1,16 @@
+{
+  "name": "concourse-robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melqui",
+  "license": "ISC",
+  "dependencies": {
+    "aws-xray-sdk": "^3.4.0",
+    "axios": "^1.2.1",
+    "google-spreadsheet": "^3.3.0"
+  }
+}
